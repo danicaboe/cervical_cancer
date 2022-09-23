@@ -1,0 +1,23 @@
+Ok here are my notes for this project.
+9/16/22: 
+Here are the descriptions as per my knowledge and some of the definitions are provided in the 'Data' section.
+
+    IUD - Intra Uterine Device (a form of contraceptive)
+    STDs - Sexually Transmitted Diseases
+    HPV - Human Papilloma Virus
+    HIV - Human Immunodeficiency Virus
+    AIDS - Acquired Immunodeficiency Syndrome (caused by HIV)
+    CIN - Cervical Intraepithelial Neoplasia
+    Dx - Medical Abbreviation for Diagnosis
+I have been digging into this dataset and have read several other analyses in which the 4 target variables have been identified as Biopsy, Schiller, Hinselmann, and Citology. 
+https://peerj.com/articles/cs-154.pdf
+Looks like the Dx variables are previous diagnoses and the other tests Schiller, Hinselmann, and Citology are available as predictors for Biopsy. In my analysis, I ended up using Biopsy as the target for classification. 
+
+Data from Venezuela - https://archive.ics.uci.edu/ml/datasets/Cervical+cancer+%28Risk+Factors%29
+
+Meanwhile, there are 4 target variables or labels: Hinselmann,
+Schiller, Cytology and Biopsy. Hinselmanns test refers to colposcopy
+using acetic acid. Meanwhile, colposcopy using Lugol iodine includes
+Schillers test, cytology and biopsy.
+
+I just found the detailed variable description here: https://ieeexplore.ieee.org/document/8070120/all-figures
