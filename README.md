@@ -1,8 +1,16 @@
 # Cervical Cancer Risk Classification
 
-<h4><em>There isn't a single person whose life hasn't been affected by cancer. Whether a collegue, friend, relative, spouse or maybe even personally - cancer is all around us. It is a huge threat and there are so many different kinds, it can be overwhelming at the scale it has gotten to. Yet, with knowledge comes power. Through exploring human nature, health and wellbeing, lifestyle choices, and biological indicators we can gain more knowledge and therefore more power over a disease that has impacted so many. </h4>
+<h4><em>There isn't a single person whose life hasn't been affected by cancer. Whether a collegue, friend, relative, spouse or maybe even personally - cancer is all around us. It is a huge threat and there are so many different kinds, it can be overwhelming at the scale it has gotten to. Yet, with knowledge comes power. Through exploring human nature, health and wellbeing, lifestyle choices, and biological indicators we can gain more knowledge and therefore more power over a disease that has impacted so many.</em></h4>
 
-<h4>Our group of four will clean and explore this data using Python and Pandas with python libraries added to aid our exploration and enable data visualization. While this is a small step - it is hopefully in the right direction. As with all endevours, there is room to scale to a larger amount of data and more specific and action focused questions. While this data is a start, it can be expanded upon with data covering a wider geographic area, more health variables, research and data collection over long periods of time, and more advanced medicine and intervention methods.</em></h4>
+<ol>
+    <b>Initial questions to explore:</b>
+    <li>What is the average age of Cervical Cancer patients?</li>
+    <li>Does age and number of pregnancies have an influence on Cervical Cancer diagnosis?</li>
+    <li>What is the correlation between the four target varibales: hinselman, schiller, citology and biopsy?</li>
+</ol>
+
+<h4><em>Our group of four will clean and explore this data using Python and Pandas with python libraries added to aid our exploration and enable data visualization. While this is a small step - it is hopefully in the right direction. As with all endevours, there is room to scale to a larger amount of data and more specific and action focused questions. While this data is a start, it can be expanded upon with data covering a wider geographic area, more health variables, research and data collection over long periods of time, and more advanced medicine and intervention methods.</em></h4>
+
 
 <ul>
 <b>A few acronyms to note:</b>
