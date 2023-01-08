@@ -1,6 +1,6 @@
 # Cervical Cancer Risk Classification
 
-<h4><em>I don't know a single person whose life hasn't been affected by cancer. Whether a collegue, friend, relative, spouse or maybe even personally - cancer is all around us. It is a huge threat and there are so many different kinds, it can be overwhelming at the scale it has gotten to. Yet, with knowledge comes power. Through exploring human nature, health and wellbeing, lifestyle choices, and biological indicators we can gain more knowledge and therefore more power over a disease that has impacted so many. </h4>
+<h4><em>There isn't a single person whose life hasn't been affected by cancer. Whether a collegue, friend, relative, spouse or maybe even personally - cancer is all around us. It is a huge threat and there are so many different kinds, it can be overwhelming at the scale it has gotten to. Yet, with knowledge comes power. Through exploring human nature, health and wellbeing, lifestyle choices, and biological indicators we can gain more knowledge and therefore more power over a disease that has impacted so many. </h4>
 
 <h4>While this is a small step - it is hopefully in the right direction. As with all endevours, there is room to scale to a larger amount of data and more specific and action focused questions. While this data is a start, it can be expanded upon with data covering a wider geographic area, more health variables, research and data collection over long periods of time, and more advanced medicine and intervention methods.</em></h4>
 
