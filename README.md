@@ -24,15 +24,13 @@
 </ul>
     
 <p>The four target variables in this dataset are identified as <em>Biopsy, Schiller, Hinselmann, and Citology</em>. Hinselmanns test refers to colposcopy
-using acetic acid. Meanwhile, colposcopy using Lugol iodine includes
-Schillers test, cytology and biopsy.
-https://peerj.com/articles/cs-154.pdf</p>
+using acetic acid. Meanwhile, colposcopy using Lugol iodine includes Schillers test, cytology and biopsy. Read more <a href="https://peerj.com/articles/cs-154.pdf">here.</a></p>
 
 <p>The Dx variables are previous diagnoses and the other tests Schiller, Hinselmann, and Citology are available as predictors for Biopsy.</p>
 
-<p>This data is from Venezuela, see original source here: https://archive.ics.uci.edu/ml/datasets/Cervical+cancer+%28Risk+Factors%29</p>
+<p>This data is from Venezuela, see original source <a href="https://archive.ics.uci.edu/ml/datasets/Cervical+cancer+%28Risk+Factors%29">here</a></p>
 
-<p>Detailed variable description here: https://ieeexplore.ieee.org/document/8070120/all-figures</p>
+<p>Detailed variable description <a href="https://ieeexplore.ieee.org/document/8070120/all-figures">here</a></p>
 
 <ul>
 <b>Attribute Information:</b>
