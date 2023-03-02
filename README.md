@@ -6,7 +6,7 @@
     <b>Initial questions to explore:</b>
     <li>What is the average age of Cervical Cancer patients?</li>
     <li>Does age and number of pregnancies have an influence on Cervical Cancer diagnosis?</li>
-    <li>What is the correlation between the four target varibales: hinselman, schiller, citology and biopsy?</li>
+    <li>What is the correlation between the four target varibales: hinselmann, schiller, cytology and biopsy?</li>
 </ol>
 
 <h4><em>Our group of four will clean and explore this data using Python and Pandas with python libraries added to aid our exploration and enable data visualization. While this is a small step - it is hopefully in the right direction. As with all endevours, there is room to scale to a larger amount of data and more specific and action focused questions. While this data is a start, it can be expanded upon with data covering a wider geographic area, more health variables, research and data collection over long periods of time, and more advanced medicine and intervention methods.</em></h4>
@@ -23,7 +23,7 @@
     <li>Dx - Medical Abbreviation for Diagnosis</li>
 </ul>
     
-<p>The four target variables in this dataset are identified as <em>Biopsy, Schiller, Hinselmann, and Citology</em>. Hinselmanns test refers to colposcopy
+<p>The four target variables in this dataset are identified as <em>Biopsy, Schiller, Hinselmann, and Cytology</em>. Hinselmanns test refers to colposcopy
 using acetic acid. Meanwhile, colposcopy using Lugol iodine includes Schillers test, cytology and biopsy. Read more <a href="https://peerj.com/articles/cs-154.pdf">here.</a></p>
 
 <p>The Dx variables are previous diagnoses and the other tests Schiller, Hinselmann, and Citology are available as predictors for Biopsy.</p>
