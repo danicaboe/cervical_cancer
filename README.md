@@ -3,7 +3,7 @@
 *There isn't a single person whose life hasn't been affected by cancer. Whether a colleague, friend, relative, spouse or maybe even personally - cancer is all around us. It is a huge threat and there are so many different kinds, it can be overwhelming at the scale it has gotten to. Yet, with knowledge comes power. Through exploring human nature, health and well-being, lifestyle choices, and biological indicators we can gain more knowledge and therefore more power over a disease that has impacted so many.*
 
 
-Initial questions to explore:
+**Initial questions to explore:**
 1. What is the average age of Cervical Cancer patients?
 2. Does age and number of pregnancies have an influence on Cervical Cancer diagnosis?
 3. What is the correlation between the four target variables: hinselman, schiller, cytology and biopsy?
